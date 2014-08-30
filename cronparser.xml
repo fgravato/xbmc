@@ -364,10 +364,7 @@
 
 <item>
 <title>Married With Children</title>
-<link>
-<sublink>rtmp://192.99.38.122/app playpath=mwc02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mwc02</sublink>
-<sublink></sublink>
-</link>
+<link>rtmp://192.99.38.122/app playpath=mwc02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mwc02</link>
 <thumbnail>http://i.imgur.com/hXEC3xd.png</thumbnail>
 </item>
 
